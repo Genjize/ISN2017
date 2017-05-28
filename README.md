@@ -1,6 +1,9 @@
 # ISN2017
 Projet Informatique et Sciences du Numérique par DUPONT Nathan et MAUBERT Elise
 
+// ATTENTION //
+Vous avez besoin d'une image nommée "image.jpg", de save.png et exit.png pour que lebon.pde fonctionne.
+
 1. Objectif / Besoin
 
 Développer un projet qui permette de modifier une photo au format jpeg et de résolution maximale : 700x540, se nommant « image.jpg » chargée par l’utilisateur afin de:
